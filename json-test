@@ -1,0 +1,25 @@
+[ {
+  "entityname" : "The Colorado State Bee-Keepers' Association",
+  "entityid" : "18881009142",
+  "agentfirstname" : "Elizabeth",
+  "entitystatus" : "Good Standing",
+  "agentprincipalcountry" : "US",
+  "agentprincipaladdress1" : "1617 White Water Ct.",
+  "entitytypeverbatim" : "Corporation",
+  "principalcountry" : "US",
+  "agentprincipalstate" : "CO",
+  "agentprincipalcity" : "Berthoud",
+  "principaladdress1" : "1617 White Water Ct.",
+  "agentlastname" : "Conrey",
+  "principalcity" : "Berthoud",
+  "entityformdate" : "1888-12-29T00:00:00",
+  "agentprincipalzipcode" : "80513-8444",
+  "principalstate" : "CO",
+  "entitytype" : "DPC",
+  "principalzipcode" : "80513-8444",
+  "location" : {
+    "latitude" : "40.279644",
+    "human_address" : "{\"address\":\"1617 White Water Ct.\",\"city\":\"Berthoud\",\"state\":\"CO\",\"zip\":\"80513-8444\"}",
+    "needs_recoding" : false,
+    "longitude" : "-105.10439"
+  }
